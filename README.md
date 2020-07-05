@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Purpose of this library is to read javascript logs from the native side in release or debug builds
+Purpose of this package is to read javascript logs from the native output in release or debug builds as well as to learn how to even make an npm module
 
 `$ yarn add react-native-native-logger`
 
